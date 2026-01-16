@@ -5,3 +5,11 @@
   Indentation refers to the spaces at the beginning of a code line.
   Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
   Python uses indentation to indicate a block of code.
+
+
+- To install Python on your Windows, just follow these steps:
+  Install VS Code-- VS code is a different, much larger program (full IDE) also made by Microsoft, mainly used for C#/.NET development
+  Download Python Installer File-- from the python officals
+  Run the Installer-- check the environments
+  Install Python
+  Verify your installation-- using command python --version
