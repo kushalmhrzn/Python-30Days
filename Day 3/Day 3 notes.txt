@@ -1,0 +1,22 @@
+#variables:
+ -variable are symbolic names that refer to objects or values stored in your computer memory
+ -Python Syntax
+variable_name = value
+
+Examples of Variables:
+>>> word = "Python"
+
+>>> number = 42
+
+>>> coefficient = 2.87
+
+>>> fruits = ["apple", "mango", "grape"]
+
+>>> ordinals = {1: "first", 2: "second", 3: "third"}
+
+>>> class SomeCustomClass: pass
+>>> instance = SomeCustomClass()
+
+#Expressions:
+- an expression is a simple statement that python can evaluate to produce and return a value
+- Each of these expressions represents a specific computation. To build the expressions, you’ve used values and the multiplication operator (*). Python evaluates each expression and returns the resulting value.	
