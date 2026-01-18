@@ -20,3 +20,37 @@ Examples of Variables:
 #Expressions:
 - an expression is a simple statement that python can evaluate to produce and return a value
 - Each of these expressions represents a specific computation. To build the expressions, you’ve used values and the multiplication operator (*). Python evaluates each expression and returns the resulting value.	
+
+#a same variable can have multiple value which will not be replaced. 
+
+#Key point:
+- Lists remember the order you put items in
+- Index starts at 0 (first item is [0], second is [1], etc.)
+- You decide what to print by using the index or a loop
+
+
+#Literals:
+A literal is the actual value written directly in your code. It's the raw data you type.
+
+Examples of literals:
+42           # integer literal
+3.14         # float literal
+"Hello"      # string literal
+True         # boolean literal
+[1, 2, 3]    # list literal
+
+
+#Key differences:
+Literals                                Values
+Written directly in code                Can be in variables or from expressions
+Fixed/constant                          Can change
+42, "hello", TrueResult of x + y,       what's stored in a variable
+
+#Literal = what you type in your code
+#Value = what actually exists in memory
+
+#Loop Variables
+Loop variables help you process data during iteration in for loops and sometimes in while loops. 
+In a for loop, the variable takes the value of the current element in the input iterable each time you go through the loop.
+    
+
