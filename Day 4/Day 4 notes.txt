@@ -1,0 +1,19 @@
+#type conversion 
+-There are two types of type conversion in Python.
+    1. Implicit Conversion - automatic type conversion
+    2. Explicit Conversion - manual type conversion
+
+
+#Both lines have unnecessary leading spaces, which causes Python to raise 
+an IndentationError when the code is not inside a function, class, or conditional block.
+
+#What is Indentation?
+Indentation refers to the spaces or tabs at the beginning of a line. In Python, indentation is not just for readability—it's part of the syntax and defines code blocks.
+
+#Why Python Uses Indentation
+Python uses indentation to define:
+    Function bodies
+    Class definitions
+    Loop blocks (for, while)
+    Conditional blocks (if, else, elif)
+    Try-except blocks
