@@ -1,0 +1,15 @@
+#print output
+    print()
+    #here the print() function displays the string enclosed inside the single quotaton.
+
+#However, the actual syntax of the print function accepts 5 parameters
+print(object= separator= end= file= flush=)
+Here,
+object - value(s) to be printed
+sep (optional) - allows us to separate multiple objects inside print().
+end (optional) - allows us to add add specific values like new line "\n", tab "\t"
+file (optional) - where the values are printed. It's default value is sys.stdout (screen)
+flush (optional) - boolean specifying if the output is flushed or buffered. Default: False
+
+
+#Python uses "dynamic typing"
