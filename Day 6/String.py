@@ -21,3 +21,36 @@ print(k[4])
 print(k[5])
 print(k[6])
 print(k[7])
+print(k[9])
+
+#looping through a string
+for x in 'anana':
+    print(x)
+
+
+#string length
+print(len(k))
+
+#check string
+##print("freeee" in txt)
+
+#using if
+#txt = "The best things in life are free!"
+#if "free" in txt:  #we using in keyword to check the string
+#    print("yes free is present")
+
+#check if not present
+kk = "The best things in life are free!"
+if "freeee" not in kk:  #we using not in keyword to check the string
+    print("no free is present")
+
+
+#trying my own
+
+abc = "there is a ball in the canteen"
+if "baaall" in abc:
+    print("'yes', your are right")
+else:
+    print("'no', your are wrong")
+
+

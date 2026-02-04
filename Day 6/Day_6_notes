@@ -15,3 +15,27 @@
         a = "Hello, World!"
         print(a[1])
 
+    
+#Looping Through a String
+    -Since strings are arrays, we can loop through the characters in a string, with a for loop.
+    -example:
+        for x in "banana":
+        print (x)
+
+    output:
+    b
+    a
+    n
+    a
+    n
+    a
+
+#String Length
+    -To get the length of a string, use the len() function.
+
+#Check String
+    -To check if a certain phrase or character is present in a string, we can use the keyword in.
+    -Example
+    --Check if "free" is present in the following text:
+        txt = "The best things in life are free!"
+        print("free" in txt)
