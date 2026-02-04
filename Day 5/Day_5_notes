@@ -13,3 +13,5 @@ flush (optional) - boolean specifying if the output is flushed or buffered. Defa
 
 
 #Python uses "dynamic typing"
+
+

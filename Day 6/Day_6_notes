@@ -1,0 +1,17 @@
+#Data types 
+    - is a type of data.
+    - informs what operations can be performed on a particular set of data.
+
+#string
+    - Strings in python are surrounded by either single quotation marks, or double quotation marks.
+    - exmaple
+        'hello' and "hello" are same
+    
+    -string always start form 0
+
+#strings are arrays 
+    - strings in Python are arrays of unicode characters.However, Python does not have a character data type, a single character is simply a string with a length of 1. Square brackets can be used to access elements of the string.
+    - exmaple:
+        a = "Hello, World!"
+        print(a[1])
+
