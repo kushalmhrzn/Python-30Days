@@ -15,11 +15,13 @@ number_1 = 22
 number_2 = 33.21
 
 print("data types of num_string before type casting:",type(number_1))
+print("data types of num_string before type casting:",type(number_2))
 
 #explict conversion
 number_1 = float(number_1)
-
+number_2 = int(number_2)
 print("data types of num_string after type casting:",type(number_1))
+print("data types of num_string after type casting:",type(number_2))
 
 num_sum = number_1 + number_2
 print(num_sum)
